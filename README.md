@@ -1,1 +1,1 @@
-# MSC_Group_Project
+# Anomaly Detection in Products
